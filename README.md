@@ -1,0 +1,1 @@
+Este proyecto es una aplicación con el propósito de llevar el control de notas de los estudiantes en carreras de pregrado. La aplicación trabaja en conjunto con una API REST y ofrece funcionalidades para manejar datos de alumnos y sus materias asignadas.
